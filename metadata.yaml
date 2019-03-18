@@ -1,11 +1,16 @@
 _repo: La-scienza-in-cucina-e-l-arte-di-mangiar-bene-Manuale-pratico-per-le-famiglie_59047
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59047-h/images/cover.jpg
 creator:
   author:
     agent_name: Artusi, Pellegrino
     gutenberg_agent_id: '50270'
     url: http://www.gutenberg.org/2009/agents/50270
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59047#La-scienza-in-cucina-e-l-arte-di-mangiar-bene-Manuale-pratico-per-le-famiglie
 gutenberg_issued: '2019-03-11'
 gutenberg_type: Text
 identifiers:
